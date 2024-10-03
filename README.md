@@ -10,3 +10,6 @@ O objetivo é praticar os comandos básicos do Git,como:
 - Git push: `git push`
 - Git pull: `git pull`
 - Configuração de usuário
+  - `git config user.name "nomeUsusario"`
+  - `git config user.email "emailUsuario"`
+![Logo github](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png)
